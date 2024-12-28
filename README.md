@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Priyanshu-shandilya
+- 💻Currently pursuing B Tech CSE.
+- 🧑‍💻Artificial Intelligence and Machine Learning.
 - 👀 I’m interested in Coding , Developments etc...
 - 🌱 I’m currently learning HTML, CSS,JS and DSA in Python. 
 - 💞️ I’m looking to collaborate on Full -Stack Devlopment and Web Design. 
